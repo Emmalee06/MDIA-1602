@@ -1,5 +1,9 @@
 # MDIA-1602
-Repository for *my* code &lt;3
+Welcome to my repository for my *code* &lt;3
+
+![Yummy ham n cheese](https://github.com/user-attachments/assets/18de1f63-33f3-410b-bfc8-b7b8c7c4bc06)
+
+
 
 3 *Aha* moments: 
 1. I realized how to used the terminal
@@ -11,7 +15,5 @@ Repository for *my* code &lt;3
 2. CD is still a little unclear
 
 1 word to describe how I'm feeling: 
-- *overwhelmed*
-
-Question: How does CD take me to a folder?
+- *overwhelmed T-T*
 
