@@ -6,15 +6,15 @@ Welcome to my repository for my *code* &lt;3
 
 
 3 *Aha* moments: 
-1. I realized how to used the terminal
-2. When Kass helped me with the directory in the terminal
-3. Creating a README file
+1. I learned git add, git status, git commit and git push!
+2. When I realized why my README wasn't pushing!
+3. Adding my stables.js file to git hub!
 
 2 things that are *unclear*
-1. How to go to a different folder in CD
-2. CD is still a little unclear
+1. Navigating to different files is still a bit weird, but not totally unclear
+2. How to "tick" to highlight words like in the code?
 
 1 word to describe how I'm feeling: 
-- *overwhelmed T-T*
+- *Confident :D!*
 
 'git clone' - copies a version of my repository 
