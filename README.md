@@ -17,3 +17,4 @@ Welcome to my repository for my *code* &lt;3
 1 word to describe how I'm feeling: 
 - *overwhelmed T-T*
 
+'git hub' - copies a version of my repository 
