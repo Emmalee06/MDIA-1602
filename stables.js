@@ -17,9 +17,10 @@ console.log(STABLE_MONTHLY_FEE);
 let horseIntroduction = " is the name of my lovely horsie";
 //let rentIntroduction = "it costs " + STABLE_MONTHLY_FEE + " to board " + horseName;
 let rentIntroduction = `It costs ${STABLE_MONTHLY_FEE} to board ${horseName}`;
-let stableIntroduction = `Welcome to  "${horseName}" 's stable!`;
+let stableIntroduction = `Welcome to  "${horseName}'s" stable!`;
 console.log(stableIntroduction);
 console.log(horseName + horseIntroduction);
-console.log(rentIntroduction);
+console.log(rentIntroduction); 
+// new comment hehe 
 
 
