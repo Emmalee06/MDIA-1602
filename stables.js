@@ -3,8 +3,6 @@ horseName = "Eevee"; //prefer double quotes
 let horseNickname = "Eves"
 let horseAge = " is 159 years old";
 
- // basically typeof lets you know what you're using 
-
 const STABLE_MONTHLY_FEE = 100; 
 let stableSavings = (STABLE_MONTHLY_FEE*0.1)*3; 
 let horseIntroduction = " is the name of my lovely horsie";
@@ -16,4 +14,10 @@ console.log(horseName + horseIntroduction);
 console.log(horseNickname + horseAge);
 console.log(rentIntroduction); 
 
-
+// LESSON 5 CODE 
+let isHorseInside = true;
+if (isHorseInside) {
+    console.log (horseNickname + " is inside the stable!");
+} else { 
+    console.log (horseNickname + " is playing outside!"); 
+}
