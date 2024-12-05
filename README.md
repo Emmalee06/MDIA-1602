@@ -5,16 +5,20 @@ Welcome to my repository for my *code* &lt;3
 
 
 
-3 *Aha* moments: 
-1. I learned git add, git status, git commit and git push!
-2. When I realized why my README wasn't pushing!
-3. Adding my stables.js file to git hub!
+Week 06 - Updated Read Me! 
 
-2 things that are *unclear*
-1. Navigating to different files is still a bit weird, but not totally unclear
-2. How to "tick" to highlight words like in the code?
+3 *confusing* things: 
+1. What are the branches for? 
+2. What does merging do exactly? 
+3. Arrays *were* confusing, but I figured it out
 
-1 word to describe how I'm feeling: 
-- *Confident :D!*
+3 things I *understand*
+1. Indexes and arrays 
+2. How to use if statements 
+3. How to incorporate .length with my arrays
 
-'git clone' - copies a version of my repository 
+An *analogy* I use: 
+- Think of arrays like a farm where all my animals (items) are stored in one barn (a declaration)
+- A farm can have multiple barns, so my animals can be placed in different barns (different declarations)
+
+
